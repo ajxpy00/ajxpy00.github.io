@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /123/456/1.jpg
+Disallow: /1.png.jpg/
+Disallow: /171234.jpg/A.gif/
+
+User-agent: Baiduspider
+Disallow: /1.jpg
+
+User-agent: Googlebot
+Disallow: /3.jpg
